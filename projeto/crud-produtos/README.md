@@ -35,4 +35,3 @@ Manipulação de listas e dicionários
 Criação de menus interativos
 Boas práticas iniciais com GitHub
 
-📌 Projeto desenvolvido como parte do meu aprendizado em programação Fullstack.
